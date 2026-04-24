@@ -87,7 +87,7 @@ Follow these steps to get the project running locally.
    
     python manage.py migrate
 
-Tanuja Bisht, [03-02-2026 14:47]
+
 5.  Seed Demo Data (Optional but Recommended):
     To populate the database with demo users and hospital data:
    
